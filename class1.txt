@@ -1,5 +1,8 @@
+Before lecture:
+N/A
 
 
+After lecture:
 I learned that system administration is a lot more complicated than I thought.
 It is a field that is hard to define but covers a vast amount of information and
 areas.  I hadn't thought of how much hardware related stuff.

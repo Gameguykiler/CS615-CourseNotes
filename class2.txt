@@ -1,0 +1,10 @@
+Before lecture:
+How do filesystems differ on different OSs?
+How do virtual machine filesystems work?
+
+link: https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image
+
+
+After lecture:
+
+How do virtual machine filesystems differ from regular ones?
