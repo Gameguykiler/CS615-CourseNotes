@@ -1,0 +1,8 @@
+Before lecture:
+How do centralized software repos have content added to them? How are they stored/mirrored?
+Who controls those repos?
+How does bootstrapping actually work?
+
+link: https://en.wikipedia.org/wiki/Bootstrapping#Computing
+
+After lecture:
