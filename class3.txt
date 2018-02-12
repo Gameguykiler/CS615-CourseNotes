@@ -6,3 +6,5 @@ How does bootstrapping actually work?
 link: https://en.wikipedia.org/wiki/Bootstrapping#Computing
 
 After lecture:
+
+We went over essentially how the startup process works.

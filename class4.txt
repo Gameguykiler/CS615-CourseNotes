@@ -1,0 +1,9 @@
+Before lecture:
+
+Is there an upper limit on the number of user accounts/groups that an OS can handle?
+Does every user account have its own group created?
+
+https://csguide.cs.princeton.edu/account/groups
+
+After lecture:
+
