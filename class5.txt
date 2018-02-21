@@ -1,0 +1,11 @@
+Before lecture:
+
+How can organizations make use of masks?
+What do companies need to do in order to actually implement IPv6?  My ISP has
+said they aren't ready yet.
+
+
+link: 
+
+After lecture:
+
