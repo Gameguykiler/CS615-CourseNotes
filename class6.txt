@@ -1,0 +1,9 @@
+Before lecture:
+
+How does traceroute work?
+
+link: https://linux.die.net/man/8/traceroute
+
+After lecture:
+
+
