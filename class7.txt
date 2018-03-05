@@ -1,0 +1,9 @@
+Before lecture:
+
+How easy is it to create a fast load balancer?
+Do load balancers need to take into account the content of a packet, or would that then defeat the purpose?
+
+link: https://www.nginx.com/resources/glassary/load-balancing/
+
+After lecture:
+

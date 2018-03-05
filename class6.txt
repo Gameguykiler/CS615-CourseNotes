@@ -6,4 +6,4 @@ link: https://linux.die.net/man/8/traceroute
 
 After lecture:
 
-
+Can we use tcpdump to look for packets with certain text in them?
