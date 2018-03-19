@@ -1,0 +1,8 @@
+Before lecture:
+
+Why in the world did smtp not require authentication by default?
+
+link: https://lifehacker.com/how-spammers-spoof-your-email-address-and-how-to-prote-1579478914
+
+After lecture:
+

@@ -7,3 +7,4 @@ link: https://www.nginx.com/resources/glassary/load-balancing/
 
 After lecture:
 
+Is there a way to force websites to use the correct status code?
