@@ -1,0 +1,8 @@
+Before lecture:
+
+Are there easy ways to automate the creation of automation tools?
+
+link: https://linuxconfig.org/bash-scripting-tutorial
+
+After lecture:
+
