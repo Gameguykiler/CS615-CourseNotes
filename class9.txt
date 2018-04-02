@@ -6,3 +6,4 @@ link: https://linuxconfig.org/bash-scripting-tutorial
 
 After lecture:
 
+How can regex be used to parse HTML text? (Joking here, see Stack Overflow)

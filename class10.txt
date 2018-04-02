@@ -1,0 +1,8 @@
+Before lecture:
+
+Are there automated tools to create backup systems easily?
+
+link: https://www.linux.com/learn/how-backup-files-linux-rsync-command-line
+
+After lecture:
+
