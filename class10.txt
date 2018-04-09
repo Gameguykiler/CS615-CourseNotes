@@ -6,3 +6,4 @@ link: https://www.linux.com/learn/how-backup-files-linux-rsync-command-line
 
 After lecture:
 
+What exactly went wrong with the linux lab/your website this week?

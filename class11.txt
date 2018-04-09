@@ -1,0 +1,8 @@
+Before lecture:
+
+What's an easy to implement configuration management system?
+
+link: 
+
+After lecture:
+
