@@ -2,7 +2,8 @@ Before lecture:
 
 What's an easy to implement configuration management system?
 
-link: 
+link: https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps
 
 After lecture:
 
+What percent of sys admins do not use CMS?

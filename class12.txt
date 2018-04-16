@@ -1,0 +1,9 @@
+Before lecture:
+
+How large should someone make their PGP keys?
+How long should they keep a PGP key before setting it to expire?
+
+link: 
+
+After lecture:
+
