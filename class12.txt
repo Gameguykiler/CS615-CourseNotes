@@ -3,7 +3,8 @@ Before lecture:
 How large should someone make their PGP keys?
 How long should they keep a PGP key before setting it to expire?
 
-link: 
+link: https://superuser.com/questions/655246/are-gnupg-1-and-gnupg-2-compatible-with-each-other
 
 After lecture:
 
+When should you use gpg vs gpg2?
